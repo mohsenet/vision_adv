@@ -175,3 +175,4 @@ cython_debug/
 
 # video files
 *.mp4
+*.mp3

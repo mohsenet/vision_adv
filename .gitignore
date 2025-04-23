@@ -176,3 +176,7 @@ cython_debug/
 # video files
 *.mp4
 *.mp3
+
+# ignore models
+**/model_detr_resnet_50/
+**/pictures/

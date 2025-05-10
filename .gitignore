@@ -180,3 +180,5 @@ cython_debug/
 # ignore models
 **/model_detr_resnet_50/
 **/pictures/
+
+**/frames
